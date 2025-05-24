@@ -19,8 +19,8 @@ library(tableHTML)
 load_data = function(page) {
   if (page == "page1") {
     list(
-      msa_list = readRDS(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/MSA_as_df/1_MSA_df_SC_AT_HS.rds"))[1:1220],
-      score_table = read.csv(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/scoring_tables/scoring_table_SC_AT_HS_git.csv"), sep = ";"),
+      msa_list = readRDS(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/MSA_as_df/1_MSA_df_SC_AT_HS.rds"))[1:1198],
+      score_table = read.csv(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/scoring_tables/scoring_table_SC_AT_HS_neu_git.csv"), sep = ";"),
       fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_AT_HS/Modified_MSA_group_ClustalO_"
     )
   } else if (page == "page2") {
