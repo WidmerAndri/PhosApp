@@ -1,0 +1,14 @@
+>sp|Q96K17|BT3L4_HUMAN Transcription factor BTF3 homolog 4 OS=Homo sapiens OX=9606 GN=BTF3L4 PE=1 SV=1
+-------------------------------------------------mnqeklaklqa---qvriggkgTarrkkkvvhrTaTaddkklqsslkklavnniagieevnmikddgTvihfnnpkvqaslSantfaitghaeakpiTemlpgilSqlgadSlTSlrklaeqfprqvld-Skapkpedideedddvpdlven--fdeaSknean------
+>sp|Q9SMW7|BTF3_ARATH Basic transcription factor 3 OS=Arabidopsis thaliana OX=3702 GN=BTF3 PE=1 SV=1
+-------------------------------------------------mnreklmkman---tvrtggkgtvrrkkkavhktnttddkrlqstlkrigvnSipaieevnifkdd-vviqfinpkvqasiaantwvvsgSpqtkklqdilpqiisqlgpdnmdnlkklaeqfqkqaSgegnaaSaTiqeeddddvpel-vgetfetaaeekapaaaass
+>sp|P20290|BTF3_HUMAN Transcription factor BTF3 OS=Homo sapiens OX=9606 GN=BTF3 PE=1 SV=1
+mrrTgapaqadSrgrgrarggcpggeaTlSqppprggTrgqepqmkeTimnqeklaklqa---qvriggkgTarrkkkvvhrTaTaddkklqfSlkklgvnniSgieevnmfTnqgTvihfnnpkvqaslaantftitghaetkqlTemlpSilnqlgadSlTSlrrlaealpkqSvd-gkaplaTge-ddddevpdlven--fdeaSknean------
+>sp|Q9CAT7|BTF3L_ARATH Nascent polypeptide-associated complex subunit beta OS=Arabidopsis thaliana OX=3702 GN=At1g73230 PE=2 SV=1
+-------------------------------------------------mnreklmkman---tvrtggkgtvrrkkkavhkttttddkrlqstlkrvgvnsipaieevnifkdd-vviqfinpkvqasiaantwvvsgtpqtkklqdilpqiisqlgpdnldnlkklaeqfqkqapgagdvpatiqeedddddvpdlvvgetfetpateeapkaaas-
+>sp|Q02642|NACB1_YEAST Nascent polypeptide-associated complex subunit beta-1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=EGD1 PE=1 SV=2
+-----------------------------------------------mpidqeklaklqklSannkvggtrrklnkkagSSagankddTklqSqlaklhavTidnvaeanffkddgkvmhfnkvgvqvaaqhntSvfyglpqeknlqdlfpgiisqlgpeaiqalsqlaaqmekhea-----kapadaekkdeaipelvegqTfdadve----------
+>sp|P40314|NACB2_YEAST Nascent polypeptide-associated complex subunit beta-2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=BTT1 PE=1 SV=1
+-----------------------------------------------mpvdqeklaklhklsaankvggtrrkinkkgnlynnndkdntklqaelhklhpmtienvaeanffkkngkvlhfnsavvqiapqcnltmihgqpkentlnglypsvasqlgsqeleyltglahnleneqt-----vldqlgdrcSetkqqvmns------------------
+>guidseq
+---^-------^---------------^-^-------^---------^-------------^---------^-------^^-^-^---^---^^-------^-^--------^---^-------------^---^----^------^----^--^-----^-^^-----------^^--^---^-^-----^----------^----^-----------
