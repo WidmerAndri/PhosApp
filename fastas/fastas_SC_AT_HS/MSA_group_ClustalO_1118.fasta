@@ -1,0 +1,16 @@
+>sp|O04834|SAR1A_ARATH Small COPII coat GTPase SAR1A OS=Arabidopsis thaliana OX=3702 GN=SAR1A PE=2 SV=1
+---mfmidwfyg----vlaslglwqkeakilflgldnagkttllhmlkderlvqhqptqhptSeelSigkikfkafdlgghqiarrvwkdyyakvdavvylvdaydkerfaeskkeldallsdeslasvpflilgnkidipyaaSedelryhlglsnfttgkgkvnltdsnvrplevfmcsivrkmgygegfkwvsqyik
+>tr|O80489|O80489_ARATH Putative GTP-binding protein, SAR1B OS=Arabidopsis thaliana OX=3702 GN=SARA1A PE=1 SV=1
+---mflfdwfyg----ilaslglckkeakilflgldnagkttllhmlkderlvqhqptqhptSeelSigkinfkafdlgghqiarrvwkdcyakvdavvylvdaydrdrfveskreldallsdealanvpclilgnkidipyassedelrYylglTnfttgkgivnledsgvrplevfmcsivrkmgygegfkwlsqyik
+>sp|P20606|SAR1_YEAST Small COPII coat GTPase SAR1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=SAR1 PE=1 SV=1
+magwdifgwfrd----vlaslglwnkhgkllflgldnagkttllhmlkndrlatlqptwhpTSeelaignikfttfdlgghiqarrlwkdyfpevngivflvdaadperfdearveldalfniaelkdvpfvilgnkidapnavSeaelrSalgllnTTgSqr-----iegqrpvevfmcsvvmrngyleafqwlsqyi-
+>sp|O04834|SAR1A_ARATH Small COPII coat GTPase SAR1A OS=Arabidopsis thaliana OX=3702 GN=SAR1A PE=2 SV=1
+---mfmidwfyg----vlaslglwqkeakilflgldnagkttllhmlkderlvqhqptqhptSeelSigkikfkafdlgghqiarrvwkdyyakvdavvylvdaydkerfaeskkeldallsdeslasvpflilgnkidipyaaSedelryhlglsnfttgkgkvnltdsnvrplevfmcsivrkmgygegfkwvsqyik
+>sp|Q9NR31|SAR1A_HUMAN Small COPII coat GTPase SAR1A OS=Homo sapiens OX=9606 GN=SAR1A PE=1 SV=1
+--mSfifewiyngfSSvlqflglykkSgklvflgldnagkTTllhmlkddrlgqhvptlhpTseeltiagmtfttfdlggheqarrvwknYlpaingivflvdcadhsrlveskvelnalmTdeTiSnvpililgnkidrTdaiSeeklreifglYgqTTgkgnvTlkelnarpmevfmcSvlkrqgygegfrwlsqyid
+>sp|Q01474|SAR1B_ARATH Small COPII coat GTPase SAR1B OS=Arabidopsis thaliana OX=3702 GN=SAR1B PE=1 SV=1
+---mflfdwfyg----ilaslglwqkeakilflgldnagkttllhmlkderlvqhqptqhptSeelSigkikfkafdlgghqiarrvwkdyyakvdavvylvdaydkerfaeskreldallsdealatvpflilgnkidipyaaSedelryhlgltnfttgkgkvtlgdsgvrplevfmcsivrkmgygegfkwlsqyin
+>sp|Q9Y6B6|SAR1B_HUMAN Small COPII coat GTPase SAR1B OS=Homo sapiens OX=9606 GN=SAR1B PE=1 SV=1
+--mSfifdwiYSgfSSvlqflglYkktgklvflgldnagkTTllhmlkddrlgqhvptlhpTseeltiagmtfttfdlgghvqarrvwknYlpaingivflvdcadherlleskeeldSlmTdeTianvpililgnkidrpeaiSeerlremfglygqTTgkgSiSlkelnarplevfmcsvlkrqgygegfrwmaqyid
+>guidseq
+---^------^^--^^-------^--^-------------^^-------------------^^---^-----------------------^---------------------------^--^--^-^-------------^---^-----^----^-^^^^--^-^--------------^-------------------
