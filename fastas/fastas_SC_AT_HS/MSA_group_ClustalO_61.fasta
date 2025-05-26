@@ -1,0 +1,48 @@
+>tr|A0A0U1RR32|A0A0U1RR32_HUMAN Histone H2A OS=Homo sapiens OX=9606 GN=hCG_2039566 PE=3 SV=1
+---------msgrg----kqggkarakaktrssraglqfpvgrvhrllrkgnYServgagapvylaavleyltaeilelagnaardnkktriiprhlqlairndeelnkllgkvtiaqggvlpniqavllpkkteshhkakgfrssqwlvpsrllasprvgkrhasswpprlleralqppaa
+>sp|Q9C681|H2A1_ARATH Probable histone H2A.1 OS=Arabidopsis thaliana OX=3702 GN=At1g51060 PE=1 SV=1
+---------magrgkt---lgSgSakkattrsskaglqfpvgriarflkkgkyaervgagapvylaavleylaaevlelagnaardnkktrivprhiqlavrndeelskllgdvtianggvmpnihnlllpkkTgaskpSaedd--------------------------------------
+>sp|P0C0S8|H2A1_HUMAN Histone H2A type 1 OS=Homo sapiens OX=9606 GN=H2AC11 PE=1 SV=2
+---------mSgrg----kqggkarakakTrSSraglqfpvgrvhrllrkgnYaervgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeShhkakgk---------------------------------------
+>sp|P04911|H2A1_YEAST Histone H2A.1 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HTA1 PE=1 SV=2
+--------mSggkg----gkagSaakaSqsrSakaglTfpvgrvhrllrrgnyaqrigsgapvyltavleYlaaeilelagnaardnkktriiprhlqlairnddelnkllgnvtiaqggvlpnihqnllpkkSakaTkaSqel--------------------------------------
+>sp|Q96QV6|H2A1A_HUMAN Histone H2A type 1-A OS=Homo sapiens OX=9606 GN=H2AC1 PE=1 SV=3
+---------mSgrg----kqggkarakskSrSSraglqfpvgrihrllrkgnYaerigagapvylaavleYltaeilelagnaSrdnkkTriiprhlqlairndeelnkllggvTiaqggvlpniqavllpkkTeShhhkaqsk--------------------------------------
+>sp|P04908|H2A1B_HUMAN Histone H2A type 1-B/E OS=Homo sapiens OX=9606 GN=H2AC4 PE=1 SV=2
+---------mSgrg----kqggkarakakTrSSraglqfpvgrvhrllrkgnYservgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgrvTiaqggvlpniqavllpkkTeShhkakgk---------------------------------------
+>sp|Q93077|H2A1C_HUMAN Histone H2A type 1-C OS=Homo sapiens OX=9606 GN=H2AC6 PE=1 SV=3
+---------mSgrg----kqggkarakakSrSSraglqfpvgrvhrllrkgnYaervgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgrvTiaqggvlpniqavllpkkTeShhkakgk---------------------------------------
+>sp|P20671|H2A1D_HUMAN Histone H2A type 1-D OS=Homo sapiens OX=9606 GN=H2AC7 PE=1 SV=2
+---------mSgrg----kqggkarakakTrSSraglqfpvgrvhrllrkgnYservgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeShhkakgk---------------------------------------
+>sp|Q96KK5|H2A1H_HUMAN Histone H2A type 1-H OS=Homo sapiens OX=9606 GN=H2AC12 PE=1 SV=3
+---------mSgrg----kqggkarakakTrSSraglqfpvgrvhrllrkgnYaervgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeShhkak-----------------------------------------
+>sp|Q99878|H2A1J_HUMAN Histone H2A type 1-J OS=Homo sapiens OX=9606 GN=H2AC14 PE=1 SV=3
+---------mSgrg----kqggkarakakTrSSraglqfpvgrvhrllrkgnYaervgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeShhktk-----------------------------------------
+>sp|Q9LHQ5|H2A2_ARATH Probable histone H2A.2 OS=Arabidopsis thaliana OX=3702 GN=At3g20670 PE=1 SV=1
+---------magrgkt---lgsgvakkstsrsskaglqfpvgriarflkngkyatrvgagapvylaavleylaaevlelagnaardnkktrivprhiqlavrndeelskllgdvtianggvmpnihslllpkkagaskpsaded--------------------------------------
+>sp|P04912|H2A2_YEAST Histone H2A.2 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=HTA2 PE=1 SV=2
+--------mSggkg----gkagSaakaSqsrSakaglTfpvgrvhrllrrgnyaqrigsgapvyltavleYlaaeilelagnaardnkktriiprhlqlairnddelnkllgnvtiaqggvlpnihqnllpkkSakTakaSqel--------------------------------------
+>sp|Q6FI13|H2A2A_HUMAN Histone H2A type 2-A OS=Homo sapiens OX=9606 GN=H2AC18 PE=1 SV=3
+---------mSgrg----kqggkarakakSrSSraglqfpvgrvhrllrkgnYaervgagapvYmaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeShhkakgk---------------------------------------
+>sp|Q8IUE6|H2A2B_HUMAN Histone H2A type 2-B OS=Homo sapiens OX=9606 GN=H2AC21 PE=1 SV=3
+---------mSgrg----kqggkarakakSrSSraglqfpvgrvhrllrkgnYaervgagapvylaavleYltaeilelagnaardnkktriiprhlqlavrndeelnkllggvTiaqggvlpniqavllpkkTeShkpgknk---------------------------------------
+>sp|Q16777|H2A2C_HUMAN Histone H2A type 2-C OS=Homo sapiens OX=9606 GN=H2AC20 PE=1 SV=4
+---------mSgrg----kqggkarakakSrSSraglqfpvgrvhrllrkgnYaervgagapvYmaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeShkaksk----------------------------------------
+>sp|O81826|H2A3_ARATH Probable histone H2A.3 OS=Arabidopsis thaliana OX=3702 GN=At4g27230 PE=1 SV=1
+---------magrgkq---lgSgaakkstsrsskaglqfpvgriarflkagkyaervgagapvylaavleylaaevlelagnaardnkktrivprhiqlavrndeelskllgdvtianggvmpnihnlllpkkagsskpteed---------------------------------------
+>sp|Q7L7L0|H2A3_HUMAN Histone H2A type 3 OS=Homo sapiens OX=9606 GN=H2AC25 PE=1 SV=3
+---------mSgrg----kqggkarakakSrSSraglqfpvgrvhrllrkgnYservgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgrvTiaqggvlpniqavllpkkTeShhkakgk---------------------------------------
+>sp|Q9LD28|H2A6_ARATH Histone H2A.6 OS=Arabidopsis thaliana OX=3702 GN=RAT5 PE=1 SV=1
+---------magrgkt---lgsggakkatsrsskaglqfpvgriarflkagkyaervgagapvylaavleylaaevlelagnaardnkktrivprhiqlavrndeelskllgdvtianggvmpnihnlllpkkagaskpqed----------------------------------------
+>sp|Q9FJE8|H2A7_ARATH Probable histone H2A.7 OS=Arabidopsis thaliana OX=3702 GN=At5g59870 PE=1 SV=1
+mestgkvkkafggr----kppgapktksvsksmkaglqfpvgritrflkkgryaqrlgggapvymaavleylaaevlelagnaardnkksriiprhlllairndeelgkllsgvtiahggvlpninsvllpkkSaTkpaeekaTkSpvkSpkka----------------------------
+>sp|Q9BTM1|H2AJ_HUMAN Histone H2A.J OS=Homo sapiens OX=9606 GN=H2AJ PE=1 SV=1
+---------mSgrg----kqggkvrakakSrSSraglqfpvgrvhrllrkgnYaervgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllgkvTiaqggvlpniqavllpkkTeSqktksk----------------------------------------
+>sp|P16104|H2AX_HUMAN Histone H2AX OS=Homo sapiens OX=9606 GN=H2AX PE=1 SV=2
+---------mSgrg----kTggkarakakSrSSraglqfpvgrvhrllrkghYaervgagapvylaavleYltaeilelagnaardnkkTriiprhlqlairndeelnkllggvTiaqggvlpniqavllpkkTSaTvgpkapSggkkaTq------------aSqeY--------------
+>sp|O04848|H2AXA_ARATH Probable histone H2AXa OS=Arabidopsis thaliana OX=3702 GN=At1g08880 PE=1 SV=1
+------mstgagsgttkggrgkpkatksvsrsskaglqfpvgriarflksgkyaervgagapvylsavleylaaevlelagnaardnkktrivprhiqlavrndeelskllgsvtianggvlpnihqtllpskvgknkgdigSaSqef----------------------------------
+>sp|Q9S9K7|H2AXB_ARATH Probable histone H2AXb OS=Arabidopsis thaliana OX=3702 GN=At1g54690 PE=1 SV=1
+------mssgagsgttkggrgkpkatksvsrsskaglqfpvgriarflkagkyaervgagapvylsavleylaaevlelagnaardnkktrivprhiqlavrndeelskllgsvtianggvlpnihqtllpskvgknkgdigSaSqef----------------------------------
+>guidseq
+---------^^--------^-^^^---^-^-^^----^--------------^^---------^------^------------^-----^------------------------^------------------^^^^^-^^-^^^^---^--------------^--^--------------

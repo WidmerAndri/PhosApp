@@ -1,0 +1,14 @@
+>sp|P18414|ERD2_YEAST ER lumen protein-retaining receptor OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERD2 PE=1 SV=1
+mnpfrilgdlshltsililihnikttryiegiSfktqtlyalvfitryldlltfhwvslynalmkiffivstayivvllqgskrtntiaynemlmhdtfkiqhlligsalmsvffhhkftflelawsfsvwlesvailpqlymlskggktrsltvhyifamglyralyipnwiwrYstedkkldkiaffagllqtllysdffyiyytkvirgkgfklpk--
+>sp|P24390|ERD21_HUMAN ER lumen protein-retaining receptor 1 OS=Homo sapiens OX=9606 GN=KDELR1 PE=1 SV=1
+mnlfrflgdlshllaiillllkiwksrscagisgksqvlfavvftaryldlft-nyislynTcmkvvyiacsfttvwliYS--kfka---tydgnhdtfrveflvvptailaflvnhdftpleilwtfsiylesvailpqlfmvskTgeaeTiTShYlfalgvYrtlylfnwiwryhfegf-fdliaivaglvqtvlYcdffYlYitkvlkgkklSlpa--
+>sp|P33947|ERD22_HUMAN ER lumen protein-retaining receptor 2 OS=Homo sapiens OX=9606 GN=KDELR2 PE=1 SV=1
+mnifrltgdlshlaaivilllkiwktrscagisgksqllfalvfttryldlft-sfislyntsmkviylacsyatvyliyl--kfka---tydgnhdtfrveflvvpvgglsflvnhdfspleilwtfsiylesvailpqlfmisktgeaetitthylfflglyralylvnwiwrfyfegf-fdliavvagvvqTilycdffylyitkvlkgkklSlpa--
+>sp|O43731|ERD23_HUMAN ER lumen protein-retaining receptor 3 OS=Homo sapiens OX=9606 GN=KDELR3 PE=1 SV=1
+mnvfrilgdlShllamilllgkiwrskcckgisgksqilfalvfttryldlfT-nfisiyntvmkvvfllcayvtvymiyg--kfrk---tfdsendtfrlefllvpviglsflenysftlleilwtfsiylesvailpqlfmisktgeaetitthylfflglyralylanwirryqtenf-ydqiavvsgvvqtifycdffylyvtkvlkgkklSlpmpi
+>sp|P35402|ERD2A_ARATH ER lumen protein-retaining receptor A OS=Arabidopsis thaliana OX=3702 GN=ERD2A PE=2 SV=1
+mnifrfagdmshlisvlilllkiyatkscagislktqelyalvfltryldlft-dyvslynsimkivfiasslaivwcmrrhplvrr---sydkdldtfrhqyvvlacfvlglilnekftvqevfwafsiyleavailpqlvllqrsgnvdnltgqyvvflgayrglyiinwiyryftedhftrwiacvsglvqtalyadffyyyyiswktntklklpa--
+>sp|Q8VWI1|ERD2B_ARATH ER lumen protein-retaining receptor B OS=Arabidopsis thaliana OX=3702 GN=ERD2B PE=1 SV=1
+mnifrlagdmthlasvlvlllkihtikscagvslktqelyaivfatryldift-sfvslyntsmklvflgssfsivwymkyhkavhr---tydreqdtfrhwflvlpcfllallihekftflevlwtsslyleavailpqlvllqrtrnidnltgqyifllggyrglyilnwiyryftephfvhwitwiagfvqtllyadffyyyflswknnkklqlpa--
+>guidseq
+----------^---------------------^-------------------^--------^-----------------^^-----------------------------------------------------------------^----^-^^-^------^-----------^------------------^--^----^-^----------^-----

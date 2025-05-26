@@ -1,0 +1,22 @@
+>sp|Q9C7D7|CNIH1_ARATH Protein cornichon homolog 1 OS=Arabidopsis thaliana OX=3702 GN=At3g12180 PE=2 SV=1
+--mawdlflwivsffvslalvasvfyqvicltdleadylnpfetst----------------rinrlvipefilqgslcllflltwhwvfflvavpvtvyhamlyke-----rrylidvtevf--rgisfekklrytklgfyvflfimvvfrltlsavysftedddllhlf
+>sp|O95406|CNIH1_HUMAN Protein cornichon homolog 1 OS=Homo sapiens OX=9606 GN=CNIH1 PE=1 SV=1
+maftfaafcymlallltaaliffaiwhiiafdelktdyknpidqcn----------------tlnplvlpeylihaffcvmflcaaewltlglnmpllayhiwrymsrpvmsgpglydpttimnadilaycqkegwcklafyllaffyylygmiyvlvss-----------
+>sp|Q3EDD7|CNIH2_ARATH Probable protein cornichon homolog 2 OS=Arabidopsis thaliana OX=3702 GN=At1g12340 PE=2 SV=2
+-----------mrgvtetdklangifhlvcladlefdyinpydsas----------------rinsvvlpefivqgvlcvfylltghwfmtllclpylyynfhlysk-----rqhlvdvteif--nllnwekkkrlfklayivlnlfltifwmiysalddyed--------
+>sp|Q6PI25|CNIH2_HUMAN Protein cornichon homolog 2 OS=Homo sapiens OX=9606 GN=CNIH2 PE=1 SV=1
+maftfaafcymltlvlcasliffviwhiiafdelrtdfknpidqgnpararerlkniericcllrklvvpeysihglfclmflcaaewvtlglnipllfyhlwryfhrpadgsevmydavsimnadilnycqkeswcklafyllsffyylysmvytlvsf-----------
+>sp|Q8GWT5|CNIH3_ARATH Protein cornichon homolog 3 OS=Arabidopsis thaliana OX=3702 GN=At1g62880 PE=2 SV=1
+---mgevwtwiisflilitllglivyqlisladlefdyinpydsas----------------rinfvvlpesilqgflcvfylvtghwfmallcvpylyynfhlysr-----kqhlidvteif--nlldwekkkrlfklayiiltlfltifwliystlddyed--------
+>sp|Q84W04|CNIH4_ARATH Protein cornichon homolog 4 OS=Arabidopsis thaliana OX=3702 GN=At1g12390 PE=1 SV=1
+---mgdiwtwlisffflialvgiivyqlvcladlefdyinpydsas----------------rinsvvlpefivqgvlcvfylltghwfmtllclpylyynfhlysk-----rqhlvdvteif--nllnwekkkrlfklayivlnlfltifwmiysalddyed--------
+>sp|Q9P003|CNIH4_HUMAN Protein cornichon homolog 4 OS=Homo sapiens OX=9606 GN=CNIH4 PE=1 SV=1
+----meavvfvfslldccaliflsvyfiitlsdlecdyinarsccs----------------klnkwvipelightivtvlllmslhwfifllnlpvatwniyrYimvpS-gnmgvfdpteihnrgqlkshmkeamiklgfhllcffmylysmilalind-----------
+>sp|Q9SZ74|CNIH5_ARATH Protein cornichon homolog 5 OS=Arabidopsis thaliana OX=3702 GN=At4g12090 PE=2 SV=2
+---mgdlldwiisflflatliiiviyqltcladlefdrinpydvss----------------rinrmvlpefglqgllclyyiltghwfmavlslphlfynirlymk-----rehladvtely--ntnkweqkkrvykighialsifittywlihsalgdi----------
+>sp|P53173|ERV14_YEAST ER-derived vesicles protein ERV14 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERV14 PE=1 SV=3
+----mgawlfilavvvncinlfgqvhftilyadleadyinpielcs----------------kvnklitpeaalhgalsllfllngywfvfllnlpvlaynlnkiyn-----kvqlldateif--rtlgkhkresflklgfhllmfffylyrmimaliaesgddf------
+>sp|P38312|ERV15_YEAST ER-derived vesicles protein ERV15 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=ERV15 PE=1 SV=1
+-msgtglslfvtglilnclnsicqiyftilygdleadyinsielck----------------rvnrlsvpeailqafisalflfngywfvfllnvpvlaynaskvyk-----kthlldaTdif--rklgrckiecflklgfyllifffyfyrmvtallendanlis-----
+>guidseq
+--------------------------------------------------------------------------------------------------------^----^---------^---------------------------------------------------
