@@ -1,0 +1,20 @@
+>sp|P20339|RAB5A_HUMAN Ras-related protein Rab-5A OS=Homo sapiens OX=9606 GN=RAB5A PE=1 SV=2
+-------------maSrgaTrpngpnTgnkicqfklvllgeSavgksSlvlrfvkgqfhefqeSTigaaflTqTvcldd--------ttvkfeiwdtagqerYhSlapmYYrgaqaaivvyditneesfaraknwvkelqrqaSp-nivialSgnkadlankr--------------------avdfqeaqsyaddnsllfmetSaktsmnvneifmaiakklpknepqnpganSar------grgvdl--TepTqpTrnqccsn
+>sp|P61020|RAB5B_HUMAN Ras-related protein Rab-5B OS=Homo sapiens OX=9606 GN=RAB5B PE=1 SV=1
+-------------mtsrSTarpngqpqaSkicqfklvllgeSavgksSlvlrfvkgqfheyqestigaafltqsvcldd--------ttvkfeiwdtagqerYhSlapmyyrgaqaaivvyditnqetfaraktwvkelqrqaSp-Sivialagnkadlankr--------------------mveYeeaqayaddnsllfmetsaktamnvndlflaiakklpkSepqnlggaagr------Srgvdl--heqSqqnkSqccSn
+>sp|P51148|RAB5C_HUMAN Ras-related protein Rab-5C OS=Homo sapiens OX=9606 GN=RAB5C PE=1 SV=2
+------------magrggaarpngpaagnkicqfklvllgeSavgksSlvlrfvkgqfheyqestigaafltqtvcldd--------ttvkfeiwdtagqerYhSlapmYyrgaqaaivvYditnTdtfaraknwvkelqrqaSp-nivialagnkadlaSkr--------------------avefqeaqaYaddnSllfmeTSakTamnvneifmaiakklpknepqnaTgapgr------nrgvdl--qennpaSrsqccsn
+>sp|Q9CB01|RABF1_ARATH Ras-related protein RABF1 OS=Arabidopsis thaliana OX=3702 GN=RABF1 PE=1 SV=1
+mgcasslpdrnsgtlsglsnsenavpadaknlrvklvllgdsgvgkscivlrfvrgqfdatskvtvgasflsqtialqd-------sttvkfeiwdtagqerysalaplyyrgagvavivyditspesfkkaqywvkelqkhgsp-divmalvgnkadlhekr--------------------evptedgmelaekngmffietsaktadninqlfeeigkrlprpapSS-----------------------------------
+>sp|P31582|RAF2A_ARATH Ras-related protein RABF2a OS=Arabidopsis thaliana OX=3702 GN=RABF2A PE=1 SV=1
+-----------------------massgnkninaklvllgdvgagksslvlrfvkdqfvefqestigaaffsqtlavnd--------atvkfeiwdtagqeryhslapmyyrgaaaaiivfditnqasferakkwvqelqaqgnp-nmvmalagnkadlldar--------------------kvsaeeaeiyaqenslffmetsaktatnvkdifyeiakrlprvqpaenptgmvl------png------pgatavssscca-
+>sp|Q9SN68|RAF2B_ARATH Ras-related protein RABF2b OS=Arabidopsis thaliana OX=3702 GN=RABF2B PE=1 SV=1
+-----------------------maaagnksinaklvllgdvgagksslvlrfvkdqfvefqestigaaffsqtlavnd--------atvkfeiwdtagqeryhslapmyyrgaaaaiivfdvtnqasferakkwvqelqaqgnp-nmvmalagnksdlldar--------------------kvtaedaqtyaqenglffmetsaktatnvkeifYeiarrlprvqptenptgmvl------pdr------amdravssscca-
+>sp|P36017|VPS21_YEAST Vacuolar protein sorting-associated protein 21 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=VPS21 PE=1 SV=1
+--------------------------mntsvTSiklvllgeaavgkssivlrfvsndfaenkeptigaafltqrvTin--------ehtvkfeiwdtagqerfaslapmyyrnaqaalvvydvtkpqsfikarhwvkelheqask-diiialvgnkidmlqegg--------------erk---vareegeklaeekgllffetsaktgenvndvflgigekiplkTaeeqnSaSne--reSnnqrvdlnaan-dgtsanSacSc
+>sp|P36018|YPT52_YEAST GTP-binding protein YPT52 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPT52 PE=1 SV=1
+------------------------------mlqfklvllgdSSvgkSSivhrfvkdTfdelrestigaaflsqsiTihpndgnetkdvvikfeiwdtagqerykSlapmyyrnanaalvvyditqedslqkarnwvdelknkvgdddlviyllgnkvdlcqeTpSTeTSpdSneggdeeqkvraisteeakqyaqeqgllfrevsakTgegvkeifqdigeklydlkkdeilSkqnrqigggnngqvdinlqrpstndptsccs-
+>sp|P36019|YPT53_YEAST GTP-binding protein YPT53 OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=YPT53 PE=1 SV=1
+---------------------mdkhtaaiptltikvvllgesavgkssivlrfvsddfkeSkepTigaaflTkritrd--------gkvikfeiwdtagqerfaplapmyyrnaqaalvvfdvtnegsfykaqnwveelhekvgh-divialvgnkmdllnndd--------------enenramkapavqnlcerenllyfeaSaktgeniyqifqtlgekvpcpeqnTrqSSThd-rtitdnqridleSttveStretggcnc
+>guidseq
+---------------^-^^^------^-^--^^--------^^---^^--------^---^--^^------^-^-^--------------------------^-^----^^---------^----^-----------------^--^-----^-------^-^-^^-^^--^--------------^-----^----^-----^^--^--------^--------^^-^^-^^^^------^-^------^^--^^-^-^^--^-

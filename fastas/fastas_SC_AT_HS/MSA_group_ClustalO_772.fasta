@@ -1,0 +1,28 @@
+>sp|Q39250|ADF1_ARATH Actin-depolymerizing factor 1 OS=Arabidopsis thaliana OX=3702 GN=ADF1 PE=1 SV=1
+-------manaaSgmavhddcklrflelkakr---------thrfivykieekqkqvvvek--------vgq-piqtyeefaaclpadecryaiydfdfvtaen-cqkskiffiawcpdiakvrskmiyasskdrfkreldgiqvelqatdptemdldvfrsran------------------
+>sp|Q9LQ81|ADF10_ARATH Actin-depolymerizing factor 10 OS=Arabidopsis thaliana OX=3702 GN=ADF10 PE=2 SV=1
+-------mansasgmhvsdecklkflelkakr---------nyrfivfkidekaqqvmidk--------lgn-peetyedftrsipedecryavydydfttpen-cqkskiffiawspdtsrvrskmlyasskdrfkreldgiqvelqatdpsemsldiikgrvnl-----------------
+>sp|Q8LFH6|ADF12_ARATH Actin-depolymerizing factor 12 OS=Arabidopsis thaliana OX=3702 GN=ADF12 PE=2 SV=2
+-------manaasgmavedecklkflelkakr---------nyrfiifridg--qqvvvek--------lgs-pqenyddftnylppnecryavydfdfttaen-iqkskiffiawspdssrvrmkmvYasskdrfkreldgiqvelqatdpsemsldiiksral------------------
+>sp|Q39251|ADF2_ARATH Actin-depolymerizing factor 2 OS=Arabidopsis thaliana OX=3702 GN=ADF2 PE=1 SV=1
+-------manaaSgmavhddcklkfmelkakr---------tfrTivykiedk--qvivek--------lge-peqsyddfaaslpaddcryciydfdfvtaen-cqkskiffiawspdtakvrdkmiyasskdrfkreldgiqvelqatdptemgldvfksrtn------------------
+>sp|Q9ZSK4|ADF3_ARATH Actin-depolymerizing factor 3 OS=Arabidopsis thaliana OX=3702 GN=ADF3 PE=1 SV=1
+-------manaaSgmavhddcklkfmelktkr---------thrfiiykieelqkqvivek--------ige-pgqthedlaaSlpadecryaifdfdfvsSeg-vprsriffvawspdtarvrskmiyasskdrfkreldgiqvelqatdptemdldvfksran------------------
+>sp|Q9ZSK3|ADF4_ARATH Actin-depolymerizing factor 4 OS=Arabidopsis thaliana OX=3702 GN=ADF4 PE=1 SV=2
+-------manaaSgmavhddcklrflelkakr---------thrfivykieekqkqvivek--------vge-piltyedfaaslpadecryaiydfdfvtaen-cqkskiffiawcpdvakvrskmiyaSSkdrfkreldgiqvelqatdptemdldvlksrvn------------------
+>sp|Q9ZSK2|ADF6_ARATH Actin-depolymerizing factor 6 OS=Arabidopsis thaliana OX=3702 GN=ADF6 PE=1 SV=1
+msfrglsrpnaisgmgvadeskttflelqrkk---------thryvvfkideskkevvvek--------tgn-ptesyddflaslpdndcryavydfdfvtsen-cqkskifffawspstsgirakvlystskdqlsrelqgihyeiqatdptevdlevlreran------------------
+>sp|Q67ZM4|ADF7_ARATH Actin-depolymerizing factor 7 OS=Arabidopsis thaliana OX=3702 GN=ADF7 PE=2 SV=1
+-------manaasgmavedecklkflelkskr---------nyrfiifridg--qqvvvek--------lgn-pdetyddftaslpanecryavfdfdfitden-cqkskiffiawspdssrvrmkmvYasskdrfkreldgiqvelqatdpsemsfdiiksral------------------
+>sp|Q570Y6|ADF8_ARATH Actin-depolymerizing factor 8 OS=Arabidopsis thaliana OX=3702 GN=ADF8 PE=2 SV=2
+-------mansasgmhvndeckikflelkakr---------tyrfivfkidekaqqvqiek--------lgn-peetyddftssipddecryavydfdfttedn-cqkskiffiawspdtsrvrskmlyasskdrfkremegiqvelqatdpsemsldiikgrlnl-----------------
+>sp|O49606|ADF9_ARATH Actin-depolymerizing factor 9 OS=Arabidopsis thaliana OX=3702 GN=ADF9 PE=2 SV=2
+-----malkTaTSgmwmTddckksfmemkwkk---------vhrYvvYkleeksrkvtvdk--------vga-agesyddlaaslpeddcryavfdfdyvtvdn-crmskiffitwspeasrirekmmyatsksglrrvldgvhyelqatdptemgfdkiqdrak------------------
+>sp|Q9Y281|COF2_HUMAN Cofilin-2 OS=Homo sapiens OX=9606 GN=CFL2 PE=1 SV=1
+----------maSgvTvndevikvfndmkvrkSSTqeeikkrkkavlfclSddkrqiiveeakqilvgdigdtvedpYTSfvkllplndcrYalYdaTYeTkeS--kkedlvfifwapeSaplkSkmiYaSSkdaikkkfTgikhewqvnglddik-----drstlgeklggnvvvSlegkpl
+>sp|Q03048|COFI_YEAST Cofilin OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=COF1 PE=1 SV=1
+---------mSrSgvavadeSlTafndlklgk---------kykfilfglndakTeivvk---------eTS-tdpsydafleklpendclyaiydfeyeingnegkrSkivffTwSpdTapvrSkmvyaSskdalrralngvSTdvqgTdfSevSYdSvlervSrgagSh------------
+>sp|P60981|DEST_HUMAN Destrin OS=Homo sapiens OX=9606 GN=DSTN PE=1 SV=3
+----------maSgvqvadevcrifYdmkvrkcSTpeeikkrkkavifclSadkkciiveegkeilvgdvgvTiTdpfkhfvgmlpekdcrYalYdaSfeTkes--rkeelmfflwapelaplkSkmiYaSSkdaikkkfqgikhecqangpedln------raciaeklggSlivafegcpv
+>guidseq
+---------^^^^--^-^--^-^--^------^^^---------^--^--^---^---------------^^^-^--^^^---^-------^--^--^^-^^-^----^-----^-^--^----^---^-^^--------^--^^----^--^--^^-^-----^----^--^---^------
