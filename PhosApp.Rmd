@@ -289,8 +289,6 @@ page_server = function(id, page) {
 
 <p>The phosphorylation data comes from EPSD (as of February 26, 2025), and orthologs were derived from OMA (February 17, 2025).</p>
 
-<p>Only orthologous relationships of the types 1:1:n, 1:n:1, and similar constellations between Saccharomyces cerevisiae, Arabidopsis thaliana, and Homo sapiens are shown here. For example, mitogen-activated protein kinases possess multiple orthologs across all three species, and therefore appear exclusively on the respective Yeast–Human or Yeast–Arabidopsis subpages.</p>
-
 <hr>
 <h4>About the Scores</h4>
 
