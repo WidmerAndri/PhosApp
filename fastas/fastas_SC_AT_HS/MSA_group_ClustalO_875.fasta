@@ -1,0 +1,12 @@
+>tr|A0A178ULI4|A0A178ULI4_ARATH Eukaryotic translation initiation factor 4C OS=Arabidopsis thaliana OX=3702 GN=AXX17_At5g32870 PE=3 SV=1
+mpknkgkggknrkrgkneaddekrelifkedgqeyaqvlrmlgngrcdvmcidgvkrlchirgkmhkkvwiaagdiilvglrdyqddkadvilkymsdearllkaygelpentrlnegivgdldddddvvgedyie---------fededidri
+>tr|A0A178VW73|A0A178VW73_ARATH Eukaryotic translation initiation factor 4C OS=Arabidopsis thaliana OX=3702 GN=AXX17_At2g03670 PE=3 SV=1
+mpknkgkggknrkrgkneaddekrelifkedgqeyaqvlrmlgngrceamcidgtkrlchirgkmhkkvwiaagdivlvglrdyqddkadvilkymsdearllkaygelpentrlnegivgdleddddnndddyve---------fededidri
+>sp|P38912|IF1A_YEAST Eukaryotic translation initiation factor 1A OS=Saccharomyces cerevisiae (strain ATCC 204508 / S288c) OX=559292 GN=TIF11 PE=1 SV=1
+mgkkntkggkkgrrgkndSdgpkreliYkeegqeYaqiTkmlgngrveascfdgnkrmahirgklrkkvwmgqgdiilvslrdfqddqcdvvhkynldearTlknqgelpenakineTdnfgfeSdedvn-fefgnadeddeegedeeldiddi
+>sp|P47813|IF1AX_HUMAN Eukaryotic translation initiation factor 1A, X-chromosomal OS=Homo sapiens OX=9606 GN=EIF1AX PE=1 SV=2
+mpknkgkggknrrrgknenesekrelvfkedgqeYaqvikmlgngrleamcfdgvkrlchirgklrkkvwinTSdiilvglrdYqdnkadvilkYnadearSlkaYgelpehakinetdtfgpgdddei-qfddig---------dddediddi
+>sp|O14602|IF1AY_HUMAN Eukaryotic translation initiation factor 1A, Y-chromosomal OS=Homo sapiens OX=9606 GN=EIF1AY PE=1 SV=4
+mpknkgkggknrrrgknenesekrelvfkedgqeYaqvikmlgngrlealcfdgvkrlchirgklrkkvwinTSdiilvglrdYqdnkadvilkYnadearSlkaYgelpehakinetdtfgpgdddei-qfddig---------dddediddi
+>guidseq
+------------------^--------^------^---^---------------------------------^^---------^----------^------^---^-----------^------^-----------------------------
