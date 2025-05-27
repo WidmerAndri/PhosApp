@@ -21,19 +21,19 @@ load_data = function(page) {
     list(
       msa_list = readRDS(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/MSA_as_df/1_MSA_df_SC_AT_HS.rds"))[1:1198],
       score_table = read.csv(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/scoring_tables/scoring_table_SC_AT_HS_neu_git.csv"), sep = ";"),
-      fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_AT_HS/Modified_MSA_group_ClustalO_"
+      fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_AT_HS/MSA_group_ClustalO_"
     )
   } else if (page == "page2") {
     list(
       msa_list = readRDS(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/MSA_as_df/1_MSA_df_SC_AT.rds"))[1:1520],
       score_table = read.csv(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/scoring_tables/scoring_table_SC_AT_git.csv"), sep = ";"),
-      fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_AT/Modified_MSA_group_ClustalO_"
+      fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_AT/MSA_group_ClustalO_"
     )
   } else if (page == "page3") {
     list(
       msa_list = readRDS(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/MSA_as_df/1_MSA_df_SC_HS.rds"))[1:1574],
       score_table = read.csv(url("https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/scoring_tables/scoring_table_SC_HS_git.csv"), sep = ";"),
-      fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_HS/Modified_MSA_group_ClustalO_"
+      fasta_base = "https://raw.githubusercontent.com/WidmerAndri/PhosApp/main/fastas/fastas_SC_HS/MSA_group_ClustalO_"
     )
   }
 }
